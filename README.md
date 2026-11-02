@@ -1,6 +1,6 @@
 # Tiki Postgres Loader
 
-Loads Tiki product data (JSON files from [tiki-product-scraper](https://github.com/<your-username>/tiki-product-scraper)) into a PostgreSQL database using Python.
+Loads Tiki product data (JSON files from [tiki-product-scraper](https://github.com/dottienguyen23/tiki-product-scraper)) into a PostgreSQL database using Python.
 
 ## Tech stack
 
